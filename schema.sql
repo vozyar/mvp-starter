@@ -15,7 +15,3 @@ CREATE TABLE movies (
  *    mysql -u root < schema.sql
  *  to create the database and the tables.*/
 
-INSERT INTO groceries (rating, name) VALUES (5, "frozen pizza");
-INSERT INTO groceries (raing, name) VALUES (10, "noosa yogurt");
-INSERT INTO groceries (rating, name) VALUES (2, "wine");
-INSERT INTO groceries (rating, name) VALUES (1, "iced coffe");
